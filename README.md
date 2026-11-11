@@ -1,6 +1,6 @@
 <div align="center">
 
-# 記憶 &nbsp;Kioku
+# Kioku - 記憶
 
 ### *Your anime, kept in memory.*
 
@@ -20,8 +20,7 @@ smart filters, personal ratings and recommendations built from your own taste.
 
 <br>
 
-<!-- 📸 HERO SCREENSHOT: replace the line below with  ![Kioku](screenshots/hero.png)  -->
-> 📸 *Main screenshot goes here*
+![Kioku](asset/Hero.mp4) 
 
 </div>
 
@@ -55,8 +54,7 @@ Kioku ships with no heavy online dependency for browsing. It works from a **loca
 ### 🏠 Home
 Browse the complete library, sorted alphabetically from special characters through **A to Z**.
 
-<!-- 📸 Replace with: ![Home](screenshots/home.png) -->
-> 📸 *Home screenshot goes here*
+![Home](asset/Home.png)
 
 <br>
 
@@ -68,8 +66,7 @@ Narrow thousands of titles down to exactly what you are in the mood for. Combine
 - **Studio**
 - **Format:** TV, OVA and more
 
-<!-- 📸 Replace with: ![Browse](screenshots/browse.png) -->
-> 📸 *Browse screenshot goes here*
+![Browse](asset/Browse.png)
 
 <br>
 
@@ -78,24 +75,20 @@ Give every anime a status and see them grouped by it:
 
 `Watching` · `Plan to Watch` · `Completed` · `Dropped` and more
 
-<!-- 📸 Replace with: ![Watchlist](screenshots/watchlist.png) -->
-> 📸 *Watchlist screenshot goes here*
+![Watchlist](asset/Watchlist.png)
 
 <br>
 
-### ⭐ Rated
+### ⭐ Rate
 Every anime you have scored, collected on a single page, so you can always look back at what you thought.
 
-<!-- 📸 Replace with: ![Rated](screenshots/rated.png) -->
-> 📸 *Rated screenshot goes here*
+![Watchlist](asset/Rate.png)
 
 <br>
 
 ### 🏆 Showcase
-A clean, **read-only** view of your rated anime. It is made for looking at and showing off, so nothing here can be edited by accident.
-
-<!-- 📸 Replace with: ![Showcase](screenshots/showcase.png) -->
-> 📸 *Showcase screenshot goes here*
+A clean, **read-only** view of your rated and favourite anime. It is made for looking at and showing off, so nothing here can be edited by accident.
+![Watchlist](asset/Fav.png)
 
 <br>
 
@@ -104,24 +97,21 @@ Kioku learns from your taste. Rate some anime **7 out of 10 or higher** and this
 
 > ℹ️ You need to rate at least a few anime 7/10 or above before suggestions appear.
 
-<!-- 📸 Replace with: ![For You](screenshots/foryou.png) -->
-> 📸 *For You screenshot goes here*
+![Watchlist](asset/Foryou.png)
 
 <br>
 
 ### ⚙️ Settings
 This is where the database is set up and kept up to date. See [Setting up the database](#-setting-up-the-database) below.
 
-<!-- 📸 Replace with: ![Settings](screenshots/settings.png) -->
-> 📸 *Settings screenshot goes here*
+![Watchlist](asset/Settings.png)
 
 <br>
 
 ### 🔄 Floating Refresh Button
 After a database update finishes, tap the floating **Refresh** button to reload the app with the new data. No restart needed.
 
-<!-- 📸 Replace with: ![Refresh](screenshots/refresh.png) -->
-> 📸 *Refresh button screenshot goes here*
+![Watchlist](asset/Navbar.png)
 
 ---
 
@@ -134,6 +124,7 @@ Kioku needs a starting database, which is large (about **5 GB or more**), so it 
 | 📦 **Choose ZIP file** | You downloaded the database zip manually | Kioku unpacks it into its install folder and uses it as the database |
 | 🔗 **Paste ZIP link** | You have a direct link to the zip | Kioku downloads it, unpacks it, and uses it as the database |
 | 📁 **Choose existing folder** | You already have the extracted files | Kioku simply points to that folder, with nothing copied |
+|**Needs MAL Client ID to be able to Update the DB**|When you click manually update button|Finds and updates new entries of animes|
 
 > 💡 Whichever option you use, the update scripts always run against the folder that is set as your database, so everything stays consistent.
 
@@ -167,7 +158,22 @@ Kioku includes embedded **Python** scripts that collect new and updated anime da
 
 ## 📜 License
 
-Kioku is **proprietary software**, free for **personal, non-commercial use**. Redistribution, modification and reverse engineering are not permitted. The full terms are included with every [release](https://github.com/Overlord15/kioku-release/releases/latest).
+Copyright (c) 2026 Anupam Kumar Khamrai
+PROPRIETARY SOFTWARE LICENSE AGREEMENT
+IMPORTANT: READ CAREFULLY. This is a legal agreement between you and the developer of this application.
+
+1. GRANT OF LICENSE
+The developer grants you a personal, non-exclusive, non-transferable license to download and use the executable binary for your personal, non-commercial use only.
+2. RESTRICTIONS
+You shall not, and you shall not permit others to: (a) modify, reverse engineer, decompile, or disassemble the software; (b) rent, lease, sublicense, distribute, or otherwise transfer the software to any third party; (c) remove any proprietary notices or labels.
+3. PROPRIETARY RIGHTS
+The software is licensed, not sold. The developer retains all right, title, and interest in and to the software, including all intellectual property rights.
+4. TERMINATION
+This license is effective until terminated. Your rights under this license will terminate automatically without notice from the developer if you fail to comply with any term hereof.
+5. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE DEVELOPER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE.
+6. GOVERNING LAW
+This Agreement shall be governed by the laws of India. Any dispute arising out of this License shall be subject to the exclusive jurisdiction of the courts in Kharagpur, West Bengal.
 
 ---
 
@@ -179,6 +185,6 @@ Kioku is an independent project and is not affiliated with, endorsed by, or conn
 
 <div align="center">
 
-Made with care for anime fans &nbsp;·&nbsp; **記憶**, *to keep in memory*
+Made with care for anime fans &nbsp;·&nbsp; **Kioku**, *to keep in memory*
 
 </div>
