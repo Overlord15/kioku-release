@@ -132,6 +132,8 @@ Kioku needs a starting database, which is large (about **5 GB or more**), so it 
 
 > 💡 Whichever option you use, the update scripts always run against the folder that is set as your database, so everything stays consistent.
 
+> ⬇️ Download Database by [clicking here](https://mega.nz/file/nTxlAA5J#0rTyo6EdOC1BImx384WkyW9YJ5VyAU7W9WzB8UfHE8k). The database is mostly updated but for most recent releases database update is required.
+
 ### Keeping it fresh
 
 Kioku includes embedded **Python** scripts that collect new and updated anime data and write it into your database. You do **not** need to install Python yourself, because it ships inside the app. Updates run only **when you ask for them**, never in the background.
