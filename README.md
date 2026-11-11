@@ -20,7 +20,11 @@ smart filters, personal ratings and recommendations built from your own taste.
 
 <br>
 
-![Kioku](asset/Hero.mp4) 
+
+
+https://github.com/user-attachments/assets/3e3ec182-2529-451d-83ef-1cda71235325
+
+
 
 </div>
 
