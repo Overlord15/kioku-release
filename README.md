@@ -1,5 +1,10 @@
 <div align="center">
 
+<p align="center">
+  <img src="asset/icon.png" alt="Alt Text" height="128" />
+</p>
+
+
 # Kioku - 記憶
 
 ### *Your anime, kept in memory.*
